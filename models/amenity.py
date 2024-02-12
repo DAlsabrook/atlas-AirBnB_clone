@@ -24,3 +24,4 @@ class Amenity(BaseModel):
             Gets id(uuid), created_at, and updated_at from parent
         """
         super().__init__(*args, **kwargs)
+        
