@@ -68,18 +68,18 @@
     margin-bottom: 5px;
 }
 
-.title,
-.subtitle {
+.filters .title,
+.filters .subtitle {
     margin: 0;
     margin-left: 40px;
 }
 
-.title {
+.filters .title {
     font-weight: 600;
     font-size: 18px;
 }
 
-.subtitle {
+.filters .subtitle {
     font-size: 14px;
     font-weight: 400;
 }
