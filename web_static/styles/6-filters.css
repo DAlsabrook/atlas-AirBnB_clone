@@ -50,8 +50,8 @@
     position: absolute;
     top: 80%;
     width: 83.5%;
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 30px;
+    padding-bottom: 20px;
     background-color: #FAFAFA;
     border: 1px solid #DDDDDD;
     border-radius: 4px;
@@ -66,7 +66,7 @@
 
 .state_list li,
 .popover li {
-    margin-bottom: 10px;
+    margin-bottom: 15px;
 }
 
 .filters .title,
